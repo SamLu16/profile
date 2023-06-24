@@ -1,0 +1,106 @@
+h1 {
+  color: whitesmoke;
+  font-family: 'Lobster Two', cursive;
+  font-size: 60px;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+body {
+  font-family: 'Lobster Two', cursive;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+  border: 5px solid whitesmoke;
+  margin: 20px 608px;
+  box-shadow: 0.8px 0.8px 0px whitesmoke;
+}
+
+p {
+  font-size: 28px;
+  color: rgba(255, 255, 255, 0.995);
+  font-weight: bold;
+  text-align: center;
+  margin: 0px 70px;
+}
+
+a {
+  font-size: 29px;
+  text-decoration: none;
+  font-weight: bold;
+  color: whitesmoke;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#container {
+  background-image: url("https://getwallpapers.com/wallpaper/full/c/4/9/111748.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.btn-square {
+  width: 250px;
+  height: 60px;
+  margin: 15px 635px;
+  background-color: rgba(1, 232, 249, 0.537);;
+  border-radius: 125px;
+  box-shadow: 9px 9px 9px rgba(119, 117, 117, 0.94);
+}
+
+.btn-square:hover {
+  background-color: rgba(1, 232, 249, 0.537);
+}
+
+.background-square {
+  width: 300px;
+  height: 40px;
+  margin: 5px 610px;
+  background-color: rgba(244, 248, 248, 0.516);
+  padding: 5px;
+}
+
+#text-color {
+  font-size: 30px;
+  color: rgb(244, 246, 249);
+  padding-left: 15px;
+}
+
+#text-color:hover {
+  color:rgb(2, 51, 250);
+}
+
+.text-blue {
+  font-size: 23px;
+  font-weight: bold;
+  color: #16171d;
+  text-align: center;
+  padding: 8px;
+}
+
+.icon-socialmedia1 {
+  color: black;
+  font-size: 40px;
+  margin-left: 700px;
+  margin-right: 5px;
+}
+
+.icon-socialmedia {
+  color: black;
+  font-size: 50px;
+  font-size: 30px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+li {
+  font-size: 50px;
+  display: inline;
+}
